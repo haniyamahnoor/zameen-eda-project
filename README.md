@@ -98,7 +98,7 @@ Pandas, NumPy
 
 Matplotlib, Seaborn
 
-Jupyter Notebook or Google Colab
+ Google Colab
 
 How to Run the Notebook
 
@@ -106,6 +106,6 @@ Clone the repository
 
 Install the required libraries
 
-Open the notebook in Jupyter or Colab
+Open the notebook in Colab
 
 Run all cells in sequence to reproduce the analysis
